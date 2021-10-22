@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.bg01 {
+    background: #326155;
+}
+header {
+    padding: 40px;
+}
+.img-div {
+    height: 128px;
+    width: 128px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+.heading-text h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.blog-section {
+    padding: 40px 0 40px 0;
+}
+.blog-container {
+    width: 580px;
+    background: #D7F2EC;
+    margin: auto;
+    padding: 40px;
+}
+.blog-text h2 {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: #326155;
+    margin: 40px 0 40px 0;
+}
+.blog-text p {
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    margin-bottom: 40px;
+}
+.learn-button {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+footer {
+    padding: 20px;
+}
+.footer-text p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    text-align: center;
+}
